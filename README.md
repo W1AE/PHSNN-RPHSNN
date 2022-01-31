@@ -35,6 +35,6 @@ The multilayer Moore-Penrose inverse-based representation learning algorithms pl
 
 ## Reproduce the Experimental Results
 
-Run script "Coding_PHSNN.m" for original P-HSNN algorithm, run script "Coding_MCOCSNN.m" for the improved RP-HSNN algorithm.
+Run script "Coding_M.m" for original P-HSNN algorithm.
 
 #The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will be made public.

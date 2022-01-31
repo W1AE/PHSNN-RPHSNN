@@ -27,7 +27,7 @@ The multilayer Moore-Penrose inverse-based representation learning algorithms pl
 * Misinformation dataset (Data collected from three major news agencies): [RUMOR DATASET](https://github.com/1027051515/PHSNN-RPHSNN/blob/main/BL.csv)
 
 ### Text-pattern Categorization (Extended Domain)
-* Text-pattern dataset (Data collected from three major news agencies): [Text-pattern DATASET](https://github.com/W1AE/OCC/blob/main/BL.csv)
+* Text-pattern dataset (Data collected from three major news agencies): [Text-pattern DATASET](https://drive.google.com/file/d/1Pqnm9qypvGph8S86GCPx81W-mXRIXcnv/view)
 
 ## Dependancies
 * Matlab version 2020a,

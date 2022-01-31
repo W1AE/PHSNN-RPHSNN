@@ -24,7 +24,7 @@ The multilayer Moore-Penrose inverse-based representation learning algorithms pl
 * Source code for Caltech-101: [Caltech-101](https://github.com/W1AE/OCC/blob/main/Demo_MNIST.zip)
 
 ### Misinformation detection (Extended Domain)
-* Misinformation dataset (Data collected from three major news agencies): [RUMOR DATASET](https://github.com/W1AE/OCC/blob/main/BL.csv)
+* Misinformation dataset (Data collected from three major news agencies): [RUMOR DATASET](https://github.com/1027051515/PHSNN-RPHSNN/blob/main/BL.csv)
 
 ### Text-pattern Categorization (Extended Domain)
 * Text-pattern dataset (Data collected from three major news agencies): [Text-pattern DATASET](https://github.com/W1AE/OCC/blob/main/BL.csv)

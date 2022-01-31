@@ -19,7 +19,7 @@ The multilayer Moore-Penrose inverse-based representation learning algorithms pl
 [1] Zhang, W. (2022). Progressive Learning Model for Big Data Analysis Using Subnetwork and Moore-Penrose Inverse. IEEE Transactions on Cybernetics.
 
 ### Caltech-101 (Visual Image Classification Domain)
-* Caltech-101 dataset: [Caltech-101 DATASET](http://yann.lecun.com/exdb/mnist/)
+* Caltech-101 dataset: [Caltech-101 DATASET](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
 * Caltech-101 features: [Caltech-101 (GoogLe Drive)](https://drive.google.com/file/d/1kWEMoIbtR8TKJq0X8btXrFqSetzOyHWH/view?usp=sharing) or [Caltech-101 (GitHub)](https://github.com/W1AE/OCC/blob/main/M_2.mat)
 * Source code for Caltech-101: [Caltech-101](https://github.com/W1AE/OCC/blob/main/Demo_MNIST.zip)
 

@@ -20,13 +20,8 @@ The multilayer Moore-Penrose inverse-based representation learning algorithms pl
 
 ### Caltech-101 (Visual Image Classification Domain)
 * Caltech-101 dataset: [Caltech-101 DATASET](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
-* Caltech-101 (Inception-v3) features: [Caltech-101 (GoogLe Drive)](https://drive.google.com/file/d/1utcKTwC5dftDGcvLG5ABCTFWGvvObcDz/view?usp=sharing) or [Caltech-101 (BaiduNetDisk, Access Code: t123)](https://pan.baidu.com/s/11z66J-K4oMaTM0LvUCLIQQ)
+* Caltech-101 (Inception-v3) features: [Caltech-101 (GoogLe Drive)](https://drive.google.com/file/d/1utcKTwC5dftDGcvLG5ABCTFWGvvObcDz/view?usp=sharing) or [Caltech-101 (BaiduNetDisk, Access Code: t123)](https://pan.baidu.com/s/1EMoQ5gYjVB21yvNw0MvJ9w)
 * Source code for Caltech-101: [Caltech-101](https://github.com/W1AE/OCC/blob/main/Demo_MNIST.zip)
-
-
-链接：https://pan.baidu.com/s/11z66J-K4oMaTM0LvUCLIQQ 
-提取码：t123 
---来自百度网盘超级会员V5的分享
 
 ### Misinformation detection (Extended Domain)
 * Misinformation dataset (Data collected from three major news agencies): [RUMOR DATASET](https://github.com/1027051515/PHSNN-RPHSNN/blob/main/BL.csv)

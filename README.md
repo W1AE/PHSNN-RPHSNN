@@ -12,7 +12,7 @@ The multilayer Moore-Penrose inverse-based representation learning algorithms pl
 
 ## Learning Structure:
 
-<img src="https://github.com/W1AE/OCC/blob/main/F.jpg" width="1050" height="430" />
+<img src="https://github.com/1027051515/PHSNN-RPHSNN/blob/main/graph.png" width="1050" height="430" />
 
 ## Related Work:
 
